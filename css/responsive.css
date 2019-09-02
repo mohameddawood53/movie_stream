@@ -1,0 +1,857 @@
+/* Big Layout: 1367px. */
+
+@media only screen and (min-width: 1368px) and (max-width: 1690px) {
+.top-movie-area {
+  margin: 0 0 -24px;
+  top: -24px;
+}
+
+
+
+
+}
+
+
+/* Medium Layout: 1367px. */
+
+@media only screen and (min-width: 1200px) and (max-width: 1367px) {
+  /* home1 */
+  .slider-box .content {
+    left: 10%;
+    right: 10%;
+    top: 12%;
+  }
+  .sb-content-box {
+    width: 70%;
+  }
+  .sb-content-box .buttons {
+    margin: 16px 0 0;
+  }
+  .top-movie-area {
+    margin: 0 0 -124px;
+    top: -124px;
+  }
+  /* home2 */
+  .h2-slider-box .content {
+    bottom: 28%;
+    left: 10%;
+    right: 10%;
+  }
+  /* home3 */
+  .h3-slider-box .content {
+    left: 8%;
+    right: 8%;
+    top: 10%;
+  }
+}
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /* home1 */
+  .search-input-box input[type="text"] {
+    min-width: 384px;
+  }
+  .menu ul li .mega-menu {
+    min-width: 936px;
+  }
+  .top-movie-area {
+    margin: 0 0 -40px;
+    top: -40px;
+  }
+  .sb-content-box {
+    width: 80%;
+  }
+  .slider-box .content {
+    left: 10%;
+    right: 10%;
+    top: 12%;
+  }
+  .coming .title {
+    bottom: 28px;
+  }
+  .single-about-movie .content {
+    padding: 30px 0 0;
+  }
+  .newsletter-area {
+    padding: 80px 0;
+  }
+  .single-news .content .title,
+  .single-news .content .title a {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .single-news .content .meta-more .meta {
+    display: block;
+    float: none;
+  }
+  .fw-info .social li a {
+    font-size: 12px;
+    height: 31px;
+    line-height: 31px;
+    width: 31px;
+  }
+  /* home2 */
+  .h2-slider-box .content {
+    bottom: 14%;
+    left: 6%;
+    right: 6%;
+  }
+  /* home3 */
+  .h3-slider-box .content {
+    left: 6%;
+    right: 6%;
+    top: 4%;
+  }
+  .h3-sb-content-box {
+    width: 90%;
+  }
+  .player-main-block {
+    padding: 0;
+  }
+  .fw-member .head .type {
+    padding: 3px 7px 4px;
+  }
+  .fw-member .head .social {
+    padding: 0 1px 0 20px;
+  }
+  .fw-info .address li {
+    font-size: 13px;
+    padding-left: 26px;
+  }
+  .fw-info .address li span {
+    height: 20px;
+    line-height: 20px;
+    top: 8px;
+    width: 20px;
+    font-size: 10px;
+  }
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* home1 */
+  .header-top-area.navbar-fixed-top {
+    animation: 0s ease 0s normal none 1 running none;
+    box-shadow: none;
+    position: unset;
+  }
+  .logo {
+    text-align: center;
+  }
+  .responsive-menu {
+    padding: 0;
+  }
+  .slider-box .content {
+    left: 4%;
+    right: 4%;
+    top: 12%;
+  }
+  .sb-content-box {
+    width: 80%;
+  }
+  .search-input-box input[type="text"] {
+    min-width: auto;
+  }
+  .search-signup .signup {
+    margin-left: 0;
+  }
+  .search-signup .signup a {
+    padding: 13px 20px;
+  }
+  .top-movie-area {
+    margin: 0;
+    padding: 40px 0;
+    top: 0;
+  }
+  .coming .intro {
+    bottom: 58%;
+  }
+  .single-about-movie .content {
+    padding: 30px 0 0;
+  }
+  .movie-tab .nav-tabs .nav-item .nav-link {
+    font-size: 28px;
+    line-height: 32px;
+  }
+  .single-news .img img {
+    width: 100%;
+  }
+  .feature-news {
+    margin: 0 0 140px;
+  }
+  .fba-left {
+    text-align: center;
+  }
+  .fba-right {
+    margin: 20px 0 0;
+    text-align: center;
+  }
+  /* home2 */
+  .h2-header-bottom-area.navbar-fixed-top {
+    animation: 0s ease 0s normal none 1 running none;
+    box-shadow: none;
+    position: unset;
+  }
+  .h2hta-social .social li a {
+    height: 31px;
+    line-height: 31px;
+    width: 31px;
+  }
+  .h2-slider-box .content {
+    bottom: 10%;
+    left: 4%;
+    right: 4%;
+  }
+  .h2-sb-content-box {
+    width: 86%;
+  }
+  .h2-sb-content-box .intro .top {
+    height: 80px;
+    line-height: 22px;
+    padding: 16px 0 0;
+    right: -81%;
+    top: -40px;
+    width: 80px;
+  }
+  .h2-sb-content-box .title {
+    font-size: 40px;
+    line-height: 40px;
+  }
+  .h2-sb-content-box .text {
+    margin: 0 0 26px;
+  }
+  .h2-slider-carousel .owl-dots {
+    bottom: 36%;
+  }
+  .single-top-movie .img a img {
+    width: 100%;
+  }
+  .newsletter-area {
+    padding: 80px 0;
+  }
+  /* home3 */
+  .h3-slider-box .content {
+    left: 2%;
+    right: 2%;
+    top: 7%;
+  }
+  .h3-sb-content-box {
+    padding: 40px 80px;
+    width: 88%;
+  }
+  .h3-sb-content-box .title {
+    font-size: 30px;
+    line-height: 30px;
+    margin: 0 0 8px;
+  }
+  .h3-sb-content-box .text {
+    margin: 0 0 10px;
+  }
+  .h2-single-about-movie .content .intro {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .h2-single-about-movie .content .title {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .my-album-area {
+    background: rgba(0, 0, 0, 0) url("../img/home3/home3-banner.jpg") no-repeat scroll right 100% / 70% 76%;
+  }
+  .controller-common.amplitude-play-pause::before {
+    font-size: 20px;
+    line-height: 20px;
+    top: 3px;
+  }
+  .player-main-block {
+    padding: 0 60px 60px 0;
+  }
+  .upcoming-music-banner {
+    margin: 0 0 60px;
+    text-align: center;
+  }
+  /* details */
+  .details-movie {
+    border-right: 1px solid #252438;
+    float: unset;
+    margin: 0 40px 60px 0;
+    overflow: auto;
+    width: auto;
+  }
+  .details-movie {
+    border-right: 0 none;
+    float: unset;
+    margin: 0 0 60px;
+    width: auto;
+  }
+  /*contact*/
+  .map-area .gmap #googleMap {
+    height: 500px;
+  }
+}
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {}
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+  /* home1 */
+  .header-top-area.navbar-fixed-top {
+    animation: 0s ease 0s normal none 1 running none;
+    box-shadow: none;
+    position: unset;
+  }
+  .logo {
+    text-align: center;
+  }
+  .account {
+    margin: 0 0 -74px;
+    position: relative;
+    text-align: left;
+    top: -74px;
+    width: 30%;
+    z-index: 99;
+  }
+  .search-input-box input[type="text"] {
+    min-width: auto;
+  }
+  .free-ticket {
+    margin: 0 0 24px;
+    text-align: center;
+  }
+  .search-signup {
+    text-align: center;
+  }
+  .top-movie-area {
+    margin: 0;
+    padding: 40px 0;
+    position: unset;
+    top: 0;
+  }
+  .slider-box .content {
+    left: 6%;
+    right: 6%;
+    top: 17%;
+  }
+  .sb-content-box {
+    width: 90%;
+  }
+  .sb-content-box .intro {
+    font-size: 28px;
+    line-height: 32px;
+  }
+  .sb-content-box .title {
+    font-size: 40px;
+    line-height: 40px;
+    margin: 0 0 14px;
+  }
+  .sb-content-box .buttons {
+    margin: 24px 0 0;
+  }
+  .sb-content-box .buttons .button {
+    padding: 10px 24px;
+  }
+  .coming .intro,
+  .coming .title {
+    display: none;
+  }
+  .section-title h2 {
+    font-size: 28px;
+    line-height: 32px;
+    padding: 0 0 18px;
+  }
+  .movie-tab .nav-tabs .nav-item .nav-link {
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .feature-news {
+    margin: 0 0 140px;
+  }
+  .fba-right {
+    margin: 20px 0 0;
+    text-align: left;
+  }
+  /* home2 */
+  .h2-header-bottom-area.navbar-fixed-top {
+    animation: 0s ease 0s normal none 1 running none;
+    box-shadow: none;
+    position: unset;
+  }
+  .h2hta-social {
+    padding: 4px 0 20px;
+    text-align: center;
+  }
+  .h2-slider-carousel .owl-dots {
+    display: none;
+  }
+  .h2-slider-box .content {
+    bottom: 20%;
+    left: 4%;
+    right: 4%;
+  }
+  .h2-sb-content-box {
+    width: 100%;
+  }
+  .h2-sb-content-box .title {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .h2-sb-content-box .more {
+    padding: 10px 26px;
+  }
+  /* home3 */
+  .top-search-cart {
+    margin: 0 0 -58px;
+    position: relative;
+    text-align: left;
+    top: -58px;
+    width: 40%;
+    z-index: 99;
+  }
+  .h3-slider-carousel .owl-dots {
+    right: 20px;
+  }
+  .h3-slider-box .content {
+    left: 2%;
+    right: 2%;
+    top: 12%;
+  }
+  .h3-sb-content-box {
+    padding: 40px 30px;
+    width: 80%;
+  }
+  .h3-sb-content-box .intro {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .h3-sb-content-box .title {
+    font-size: 32px;
+    line-height: 32px;
+    margin: 0 0 12px;
+  }
+  .h3-sb-content-box .buttons .button {
+    font-size: 12px;
+    line-height: 16px;
+    padding: 8px 26px;
+  }
+  .my-album-area {
+    background: rgba(0, 0, 0, 0) url("../img/home3/home3-banner.jpg") no-repeat scroll right 90% / 54% 40%;
+  }
+  .player-main-block {
+    padding: 0 0 60px;
+  }
+  .upcoming-music-banner {
+    margin: 0 0 60px;
+  }
+  .single-upcoming-music>div {
+    flex: 1 1 50%;
+    margin: 15px 0;
+  }
+  .single-upcoming-music {
+    padding: 10px;
+  }
+  .h3n-twitter-feed {
+    margin: 50px 0 0;
+  }
+  /* details */
+  .details-movie {
+    float: unset;
+    margin: 0 0 14px;
+    width: auto;
+  }
+  .details-content {
+    overflow: unset;
+    padding: 30px 0 0;
+  }
+  /*grid*/
+  .grid-menu {
+    padding: 10px;
+  }
+  .grid-menu .sort-show p {
+    margin: 0;
+  }
+  .grid-menu .sort-show select {
+    padding: 4px;
+  }
+  .grid-menu .pages ul li {
+    margin-left: 0;
+  }
+  .grid-menu .pages ul li a {
+    font-size: 12px;
+    height: 24px;
+    line-height: 24px;
+    width: 24px;
+  }
+  .single-list-movie .content {
+    padding: 14px;
+  }
+  /*blog-details*/
+  .all-comments li ul {
+    padding-left: 30px;
+  }
+  /*contact*/
+  .map-area .gmap #googleMap {
+    height: 300px;
+  }
+}
+
+/* Small Mobile Layout: 480px. */
+
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+  /* home1 */
+  .header-top-area.navbar-fixed-top {
+    animation: 0s ease 0s normal none 1 running none;
+    box-shadow: none;
+    position: unset;
+  }
+  .logo {
+    text-align: center;
+  }
+  .search-input-box input[type="text"] {
+    min-width: auto;
+    width: 174px;
+  }
+  .account {
+    margin: 0 0 -45px;
+    padding: 5px 0;
+    position: relative;
+    text-align: left;
+    top: -60px;
+    width: 50%;
+    z-index: 99;
+  }
+  .top-movie-area {
+    margin: 0;
+    padding: 60px 0 40px;
+    top: 0;
+  }
+  .search-input-box button {
+    padding: 0 10px;
+    position: absolute;
+    right: 0;
+    top: 8px;
+  }
+  .free-ticket {
+    margin: 0 0 20px;
+    text-align: center;
+  }
+  .search-signup {
+    text-align: center;
+  }
+  .search-signup .search {
+    display: block;
+    text-align: center;
+  }
+  .search-signup .signup {
+    display: block;
+    margin: 20px 0 0;
+    text-align: center;
+  }
+  .slider-carousel .owl-dots {
+    right: 4px;
+  }
+  .sb-content-box {
+    width: 100%;
+  }
+  .slider-box .img {
+    padding: 60px 0;
+    position: relative;
+  }
+  .slider-box .content {
+    left: 0;
+    right: 0;
+    top: 28%;
+  }
+  .sb-content-box .intro {
+    font-size: 22px;
+    line-height: 22px;
+    margin: 0 0 8px;
+  }
+  .sb-content-box .title {
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0 0 14px;
+  }
+  .sb-content-box .buttons {
+    margin: 7px 0 0;
+  }
+  .sb-content-box .buttons .button {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+    padding: 6px 10px;
+  }
+  .umf-single .content {
+    bottom: 14px;
+    padding: 0 12px;
+  }
+  .umf-single .content .name,
+  .umf-single .content .name a {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .umf-single .popup-youtube {
+    font-size: 22px;
+    height: 30px;
+    line-height: 30px;
+    opacity: 1;
+    top: 20px;
+    width: 30px;
+  }
+  .section-title h2 {
+    font-size: 28px;
+    line-height: 32px;
+    padding: 0 0 20px;
+  }
+  .movie-tab .nav-tabs .nav-item {
+    flex: 1 1 100%;
+  }
+  .movie-tab .nav-tabs .nav-item::after {
+    display: none;
+  }
+  .movie-tab .nav-tabs .nav-item .nav-link {
+    font-size: 28px;
+    line-height: 32px;
+  }
+  .coming .intro,
+  .coming .title {
+    display: none;
+  }
+  .single-news .content {
+    padding: 10px;
+  }
+  .single-news .content .title,
+  .single-news .content .title a {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .single-news .content .text {
+    display: none;
+  }
+  .single-news .content .meta-more {
+    padding: 12px 0 0;
+  }
+  .single-news .content .meta-more .meta {
+    float: none;
+  }
+  .single-news .content .meta-more .meta li {
+    font-size: 12px;
+    margin-left: 4px;
+  }
+  .newsletter-area {
+    padding: 80px 0 124px;
+  }
+  .fba-right {
+    padding: 20px 0 0;
+    text-align: left;
+  }
+  .about-movie-carousel .owl-nav {
+    display: none;
+  }
+  .feature-news {
+    margin: 0 0 140px;
+  }
+  /* home2 */
+  .h2-header-bottom-area.navbar-fixed-top {
+    animation: 0s ease 0s normal none 1 running none;
+    box-shadow: none;
+    position: unset;
+  }
+  .h2hta-social {
+    padding: 4px 0 20px;
+    text-align: center;
+  }
+  .h2-slider-carousel .owl-dots {
+    display: none;
+  }
+  .h2-slider-box .content {
+    bottom: 12%;
+    left: 4%;
+    right: 4%;
+  }
+  .h2-sb-content-box {
+    width: 100%;
+  }
+  .h2-sb-content-box .intro {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .h2-sb-content-box .title {
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0 0 10px;
+  }
+  .h2-sb-content-box .more {
+    font-size: 12px;
+    line-height: 16px;
+    padding: 8px 16px;
+  }
+  /* home3 */
+  .top-search-cart {
+    margin: 0 0 -58px;
+    position: relative;
+    text-align: left;
+    top: -58px;
+    width: 40%;
+    z-index: 99;
+  }
+  .h3-slider-carousel .owl-dots {
+    right: 4px;
+  }
+  .h2-single-about-movie .content .intro {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .h2-single-about-movie .content .title {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .my-album-area {
+    background: rgba(0, 0, 0, 0) url("../img/home3/home3-banner.jpg") no-repeat scroll right 44% / 34% 45%;
+  }
+  .player-main-block {
+    margin-bottom: 60px;
+    padding: 0;
+  }
+  .control-container {
+    margin: 14px 0 18px;
+    width: 100%;
+  }
+  .player-footer {
+    width: 100%;
+  }
+  .amplitude-song-container .play-now {
+    display: none;
+    left: auto;
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  .amplitude-song-container .play-now {
+    display: none;
+  }
+  .single-upcoming-music {
+    padding: 10px 10px;
+  }
+  .single-upcoming-music>div {
+    margin: 15px 0;
+  }
+  .h3n-twitter-feed {
+    margin: 50px 0 0;
+  }
+  .upcoming-music-banner {
+    margin: 0 0 30px;
+  }
+  .details-movie {
+    float: unset;
+    margin: 0 0 14px;
+    width: auto;
+  }
+  .details-movie .img {
+    float: unset;
+    width: auto;
+  }
+  /* feature-movie-grid */
+  .op-back {
+    padding: 10px 0 0;
+    text-align: left;
+  }
+  .grid-menu {
+    display: block !important;
+    justify-content: unset !important;
+    padding: 10px;
+  }
+  .grid-menu>div {
+    display: block;
+    margin: 0 0 30px;
+  }
+  .grid-menu>div:last-child {
+    margin-bottom: 0;
+  }
+  .grid-menu .sort-show p {
+    margin: 0;
+  }
+  .single-list-movie .img {
+    float: none;
+    width: auto;
+  }
+  /* celebrety */
+  .single-celebrety {
+    margin: auto auto 30px;
+    width: 270px;
+  }
+  /*blog-details*/
+  .all-comments li article .img {
+    left: 0;
+    margin: 0;
+    position: unset;
+    top: 0;
+  }
+  .all-comments li article {
+    padding: 20px;
+  }
+  .all-comments li article .content .meta li {
+    margin-bottom: 10px;
+    margin-right: 0;
+  }
+  .all-comments li ul {
+    padding-left: 16px;
+  }
+  .all-comments {
+    padding-left: 0;
+  }
+  /*contact*/
+  .map-area .gmap #googleMap {
+    height: 300px;
+  }
+}
+
+/*big from small mobile, small from wide mobile*/
+
+@media only screen and (min-width: 380px) and (max-width: 480px) {
+  /* home2 */
+  .h2-slider-box .content {
+    bottom: 20%;
+  }
+  /* home3 */
+  .player-main-block {
+    margin: auto auto 60px;
+    padding: 0;
+    width: 290px;
+  }
+  .single-gallery {
+    margin: auto auto 30px;
+    width: 340px;
+  }
+  /* details */
+  .details-movie .img {
+    float: left;
+    width: 200px;
+  }
+  .details-movie .content {
+    overflow: hidden;
+    padding: 10px 0 0 20px;
+  }
+  /* grid */
+  .single-list-movie .img {
+    float: left;
+    width: 200px;
+  }
+  .single-list-movie .content {
+    padding: 10px;
+  }
+  .grid-movies .single-top-movie {
+    margin: auto auto 30px;
+    width: 268px;
+  }
+  /* celebrety */
+  .single-celebrety {
+    margin: auto auto 30px;
+    width: 270px;
+  }
+}
